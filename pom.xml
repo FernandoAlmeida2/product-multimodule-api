@@ -25,6 +25,7 @@
         <module>modulo-produtos</module>
 		<module>gateway-api</module>
         <module>shared</module>
+        <module>modulo-categorias</module>
     </modules>
     <scm>
 		<connection/>
